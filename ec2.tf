@@ -6,3 +6,4 @@ resource "aws_instance" "tf_instance" {
    Name= "EC2_instance"
  }
 }
+# making modifications
